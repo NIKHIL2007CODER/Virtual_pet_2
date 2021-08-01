@@ -1,2 +1,2 @@
-# asynchronousBallMovement
-Boiler plate for ball moving aysnchronously
+# Virtual pet 
+Link for the project overview :
